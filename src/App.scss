@@ -1,0 +1,8 @@
+@use './partials/typography' as *;
+@use './partials/variables' as *;
+
+body {
+    font-family: 'Netflix Sans', 'Helvetica', 'sans-serif';
+    margin: 0;
+    background-color: $black;
+}
